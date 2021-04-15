@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser angers_rebelle
+web: voila --port=$PORT --no-browser angers_rebelle.ipynb
